@@ -1,0 +1,66 @@
+{
+    "workbench.colorTheme": "Default Light Modern",
+    "editor.fontSize": 15,
+    "files.autoSave": "afterDelay",
+    "editor.renderWhitespace": "all",
+    "editor.cursorStyle": "block",
+    "editor.bracketPairColorization.independentColorPoolPerBracketType": true,
+    "editor.defaultColorDecorators": true,
+    "go.editorContextMenuCommands": {
+        "testPackage": true
+    },
+    "go.inlayHints.assignVariableTypes": true,
+    "go.inlayHints.rangeVariableTypes": true,
+    "go.inlayHints.parameterNames": true,
+    "go.inlayHints.functionTypeParameters": true,
+    "go.inlayHints.constantValues": true,
+    "go.inlayHints.compositeLiteralTypes": true,
+    "go.inlayHints.compositeLiteralFields": true,
+    "editor.lineHeight": 2,
+    "explorer.confirmDelete": false,
+    "terminal.integrated.defaultProfile.osx": "zsh",
+    "go.delveConfig": {
+    
+        "dlvLoadConfig": {
+            "followPointers": true,
+            "maxVariableRecurse": 2,
+            "maxStringLen": 64,
+            "maxArrayValues": 64,
+            "maxStructFields": -1
+        }
+    },
+    "editor.largeFileOptimizations": false,
+    "files.associations": {
+        "Makefile*": "makefile"
+    },
+    "git.openRepositoryInParentFolders": "never",
+    "editor.inlineSuggest.enabled": true,
+    "ginkgotestexplorer.ginkgoPath": "/Users/tjons/go/bin/ginkgo",
+    "go.toolsManagement.autoUpdate": true,
+    "explorer.confirmDragAndDrop": false,
+    "go.alternateTools": {
+        
+    },
+    "github.copilot.enable": {
+        "*": true,
+        "plaintext": false,
+        "markdown": false,
+        "scminput": false,
+        "rust": "false"
+    },
+    "githubPullRequests.pullBranch": "never",
+    "workbench.editorLargeFileConfirmation": 1000,
+    "gopls": {
+
+    },
+    "go.buildTags": "integ",
+    "github.copilot.editor.enableAutoCompletions": true,
+    "opa.dependency_paths.opa": "/Users/tylerschade/opa",
+    "opa.dependency_paths.regal": "/Users/tylerschade/regal",
+    "opa.languageServers": [
+        "regal"
+    ],
+    "cloudcode.project": "tyler-test-390214",
+    "cloudcode.autoDependencies": "off",
+    "redhat.telemetry.enabled": true
+}
